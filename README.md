@@ -38,11 +38,11 @@ README.md: Project info
 
 🚀 How to View
 	
-  1.	Clone the repo: git clone https://github.com/CoconurRanger11/mclaren-720s-landing.git
+1.	Clone the repo: git clone https://github.com/CoconurRanger11/mclaren-720s-landing.git
 
-  2.	Open the folder: cd mclaren-720s-landing
+2.	Open the folder: cd mclaren-720s-landing
 
-  3.	Open index.html in your browser and enjoy! 🏎️💨
+3.	Open index.html in your browser and enjoy! 🏎️💨
 
 ⸻
 
