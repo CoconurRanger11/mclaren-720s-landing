@@ -1,60 +1,57 @@
-🚀 McLaren 720S Landing Page
+# 🚀 McLaren 720S Landing Page
 
-A sleek landing page for the McLaren 720S Spider, designed to showcase its speed, luxury, and style. Built with HTML & CSS, fully responsive and interactive.
+A sleek **landing page inspired by the McLaren 720S Spider**, designed to showcase its **speed, luxury, and performance**.  
+Built using **HTML and CSS**, the page focuses on modern UI design, responsiveness, and clean layout structure.
 
-⸻
+---
 
-✨ Features
+## ✨ Features
 
-•	Responsive layout for desktop, tablet & mobile
+- 📱 Fully responsive layout (desktop, tablet, and mobile)
+- 🎨 Smooth hover effects on navigation and buttons
+- 🏎️ Luxury-inspired fonts and visual design
+- 📊 Highlighted car performance statistics
+- 🚀 “Get Started” call-to-action button
 
-•	Smooth hover effects on buttons & navigation
+---
 
-•	Stylish luxury fonts and design
+## 🛠 Technologies Used
 
-•	Highlighted performance stats
+- **HTML5**
+- **CSS3**
+- **Responsive Design Techniques**
 
-•	“Get Started” call-to-action button
+---
 
-⸻
+## 🎯 Project Purpose
 
-📂 Project Structure
+This project was created to practice:
 
-mclaren-720s-landing/
+- Frontend layout design
+- CSS styling and responsiveness
+- Creating visually engaging landing pages
+- Structuring clean and organized web projects
 
-index.html: Main landing page
+The goal was to build a **luxury-style landing page for a high-performance car** using only HTML and CSS.
 
-mclaren.css: Styles for layout and responsiveness
+---
 
-carMeter.png: Car performance meter
+## 📸 Preview
 
-mclaren.png: Main car image
+The landing page features:
 
-mclarenLogo.png: McLaren logo
+- A **hero section with the McLaren 720S**
+- Performance stats and visual highlights
+- Smooth UI interactions and responsive layout
 
-README.md: Project info
+---
 
-⸻
+## 👨‍💻 Author
 
-🚀 How to View
-	
-1.	Clone the repo: git clone https://github.com/CoconurRanger11/mclaren-720s-landing.git
+**Muhammad Arif Bin Zulfikry**
 
-2.	Open the folder: cd mclaren-720s-landing
+GitHub: https://github.com/CoconurRanger11
 
-3.	Open index.html in your browser and enjoy! 🏎️💨
+---
 
-⸻
-
-💡 About
-
-This project was made to practice HTML layouts, CSS styling, and responsive design. 
-Focused on creating a visually engaging landing page for a luxury car without using JavaScript frameworks.
-
-⸻
-
-👤 Author
-
-Muhammad Arif Bin Zulfikry
-
-GitHub: CoconurRanger11
+⭐ If you like this project, feel free to **star the repository**!
